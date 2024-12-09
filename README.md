@@ -43,6 +43,7 @@ In case of any questions or issues, please contact: alena.kavyrshyna@gmail.comm
 
 
 Main page
+
 <img width="473" alt="image" src="https://github.com/user-attachments/assets/61087e4f-d90a-4b30-af17-80f15c40d3e1">
 
 Info about 1 country 
