@@ -46,6 +46,7 @@ Main page
 <img width="473" alt="image" src="https://github.com/user-attachments/assets/61087e4f-d90a-4b30-af17-80f15c40d3e1">
 
 Info about 1 country 
+
 <img width="552" alt="image" src="https://github.com/user-attachments/assets/465d4fe9-2538-4f2d-90f0-1de8c4838d19">
 
 
